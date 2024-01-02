@@ -13,6 +13,8 @@ This is a static website for a shopping mall, created using HTML and CSS. It fea
 - HTML
 - CSS
 
+## Visit the live application: [Live Server Link](https://zamanmonirbu.github.io/panda-mart-shoping-mall/)
+
 ## Contributing
 
 Feel free to contribute to the development of this shopping mall website. Create a fork, make your changes, and submit a pull request!
